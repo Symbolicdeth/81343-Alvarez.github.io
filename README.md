@@ -1,2 +1,2 @@
-# 81343-Alvarez.github.io
+# Alvarez.github.io
 Web Design &amp; Development | Alvarez
